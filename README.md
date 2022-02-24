@@ -1,1 +1,1 @@
-# budget_tracker
+# budget-tracker
