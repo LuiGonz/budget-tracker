@@ -1,5 +1,4 @@
 # budget-tracker-react-app
-# budget-tracker-react-app
 
 ## Deployed Heroku App
 https://budget-tracker-react-app.herokuapp.com/
